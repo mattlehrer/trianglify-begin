@@ -17,8 +17,6 @@ exports.handler = async function http(req) {
 		seed = '0x0000000000000000000000000000000000000000';
 	}
 
-	console.log({ seed });
-
 	const triangle = trianglify({
 		width: 256,
 		height: 256,
@@ -39,7 +37,6 @@ exports.handler = async function http(req) {
 
 	const readStream = canvas.createPNGStream();
 	const pngStream = concat((buf) => {
-		console.log('png', buf);
 		png = buf;
 	});
 
