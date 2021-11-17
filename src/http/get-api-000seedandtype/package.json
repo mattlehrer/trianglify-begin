@@ -1,0 +1,16 @@
+{
+	"name": "get-index",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"canvas": "^2.8.0",
+		"concat-stream": "^2.0.0",
+		"trianglify": "^4.1.1"
+	}
+}

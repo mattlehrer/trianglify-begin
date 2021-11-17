@@ -1,3 +1,6 @@
+@create
+autocreate true
+
 @app
 myapp
 
