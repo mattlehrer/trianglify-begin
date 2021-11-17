@@ -3,4 +3,4 @@ myapp
 
 @http
 get /
-get /:seedandtype
+get /api/:seedandtype
