@@ -1,2 +1,0 @@
-# trianglify-begin
-Begin app
