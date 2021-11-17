@@ -10,10 +10,5 @@
 		"@architect/sandbox": "^4.0.2",
 		"@begin/data": "latest",
 		"cross-env": "^7.0.3"
-	},
-	"dependencies": {
-		"canvas": "^2.8.0",
-		"concat-stream": "^2.0.0",
-		"trianglify": "^4.1.1"
 	}
 }
